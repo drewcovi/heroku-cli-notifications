@@ -5,7 +5,7 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/heroku/heroku-cli-notifications/issues",
   "dependencies": {
-    "node-notifier": "^5.2.1"
+    "node-notifier": "^5.4.0"
   },
   "devDependencies": {
     "@oclif/tslint": "^3.1.0",
